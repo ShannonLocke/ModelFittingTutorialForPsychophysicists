@@ -1,5 +1,3 @@
-Background:
-
 This model-fitting tutorial was created for the graduate-level course in Psychophysics at NYU. It is composed of 3 modules.
 
 Module 1 shows how to fit a standard psychometric function in Matlab (a common programming language in the field) using a variety of maximum-likelihood estimation techniques.
